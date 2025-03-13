@@ -1,8 +1,8 @@
-# java-attendance 요구사항 명세
+# java-attendanceTime 요구사항 명세
 
 > 의식적인 `Code Kata`
 
-> 2025.03.13 12:14 - ING
+> 2025.03.13 12:14 - 15:19
 
 ## 1. 출석 시스템
 
